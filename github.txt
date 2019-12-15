@@ -1,0 +1,24 @@
+https://github.com/  로그인
+
+홈페이지에서 로그인 후 'New repository' 혹은 'Create a repository'
+
+
+
+
+-------------------------------------------------------------
+echo "# git" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/quiz2134/git.git
+git push -u origin master
+-------------------------------------------------------------
+
+
+- git 저장소와 연결하고 싶은 임의의 폴더 생성
+
+- cmd창에서 해당 폴더 위치로 이동
+d:
+cd github
+
+
